@@ -1,0 +1,103 @@
+.address {
+    font-size: 100%;
+    margin-left: 3%;
+   
+    font-family: sans-serif;
+    margin-top: 1%;
+}
+
+.address span {
+    font-weight: bold;
+    font-size: 100%;
+}
+
+.mail-text {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 30%;
+
+}
+
+.skypechat {
+   margin-left:10px;
+    text-align: center;
+    color: #212529;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-right: 50%;
+
+}
+
+.skypechat i {
+    display: flex;
+    align-items: center;
+    margin-right: 12%;
+}
+
+/* Add this CSS to your stylesheet or within a <style> tag */
+.connect-text {
+    margin-left: -8%;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20%;
+}
+
+@media (max-width:347px){
+    .connect-text{
+        margin-left: 2%;
+    }
+}
+
+.form {
+    width: 194%;
+}
+
+@media (min-width:737px) {
+    .skypechat {
+        
+        text-align: center;
+        color: #212529;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        
+        margin-right: 83%;
+    }
+}
+
+@media (min-width:739px) and (max-width:1399px){
+    .skypechat{ 
+        margin-left: 22px;
+    }
+    
+}
+
+@media (min-width:737px) and (max-width:885px){
+    .connect-text{
+        margin-left: 1%;
+    }
+}
+
+@media(min-width:1400px) and (max-width:1799px){
+    .skypechat{
+        margin-left:35px;
+    }
+}
+
+@media (min-width:1800px){
+    .skypechat{
+        margin-left:48px;
+    }
+    .connect-text{
+        margin-left: -10%;
+        font-family: 'Roboto', sans-serif;
+        color: black;
+        font-weight: bold;
+        text-decoration: none;
+        margin-right: 20%;
+    }
+     
+}

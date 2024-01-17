@@ -1,0 +1,39 @@
+#services img {
+    margin-left: -3%;
+    width: 84%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width:1800px){
+    #services img {
+        margin-left: -1%;
+    }
+   
+}
+
+#services h3 {
+    
+    font-size: 18px;
+    text-align: center;
+}
+
+.service-card {
+    /* margin-left: -1%; */
+    padding: 0% 4%;
+    list-style: auto;
+}
+
+.service-card>strong {
+    font-size: larger;
+}
+
+.service-card img {
+    margin: 10% 0;
+}
+
+.service-card ul {
+    padding: 0% 0%;
+}

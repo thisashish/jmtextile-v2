@@ -1,0 +1,17 @@
+#blog h3:first-child {
+    /* margin-right: 10%; */
+    /* margin-left: -2%; */
+    text-align: center;
+    font-size: 17px;
+}
+
+#blog li {
+    font-weight: bold;
+}
+
+/* .blog-man{
+        margin-left:-32px;
+      } */
+      /* .blog-man1{
+        margin-left:-32px;
+      } */
