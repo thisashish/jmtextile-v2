@@ -18,3 +18,5 @@ step -6 create a google spreadsheet in which listdown all pages heading and thei
 step -6 check the keyword and description ,anything keyword should not repeat 
 
 step -7 write a clear and clean google spredsheet with proper light color to identify the pages keyword and descriptoin easily
+
+step 8 our spreadsheet access url - https://docs.google.com/spreadsheets/d/1n7XDOfyS2AXpBan47stfKh1uwhl5X-z1QqbZu--SVDY/edit#gid=0
