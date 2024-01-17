@@ -1,22 +1,25 @@
 # jmtextile-v2
 
+Technology used - HTML, CSS, and JAVASCRIPT 
+
+
 SEO (SEARCH ENGINE OPTIMIZATION)
 
-Step - 1 : search related keyword and description for website's every page content on google 
+Step - 1: search related keywords and descriptions for the website's every page content on Google 
 
-Step -2  : search similar websites on google that are already in top results on google 
+Step -2: search similar websites on Google that are already in the top results on Google 
 
-step -3 : visit their websites and observe their 'keyword' and 'description' 
+step -3: visit their websites and observe their 'keyword' and 'description' 
 
-step -4 : try to make unique 'keyoword' and 'description' for websites
+step -4: try to make unique 'keywords' and 'descriptions' for websites
 
-step -5 : use 'smallseotools' website to check plagrisim of 'keyword' and description
+step -5: use 'smallseotools' website to check plagiarism of 'keyword' and description
 
- website url - https://smallseotools.com/plagiarism-checker/
-step -6 create a google spreadsheet in which listdown all pages heading and their keyword and description 
+ website URL - https://smallseotools.com/plagiarism-checker/
+step -6 Create a Google spreadsheet in that lists all page headings and their keyword and description 
 
-step -6 check the keyword and description ,anything keyword should not repeat 
+step -6 Check the keyword and description, anything keyword should not repeat 
 
-step -7 write a clear and clean google spredsheet with proper light color to identify the pages keyword and descriptoin easily
+step -7 Write a clear and clean Google spredsheet with a proper light color to identify the pages keyword and description easily
 
 step 8 our spreadsheet access url - https://docs.google.com/spreadsheets/d/1n7XDOfyS2AXpBan47stfKh1uwhl5X-z1QqbZu--SVDY/edit#gid=0
